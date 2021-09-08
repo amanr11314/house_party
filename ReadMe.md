@@ -15,7 +15,7 @@
 ### Install react and other frontend node dependencies:-
 
     cd ./frontend
-    pipenv install
+    npm install
 
 ### Make migrations for the model (from root directory of this application run):-
 
