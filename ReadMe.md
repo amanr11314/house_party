@@ -1,4 +1,4 @@
-# TITLE
+# HOUSE PARTY [DEPLOYED APP](https://my-music-controller.herokuapp.com/)
 
 ## Getting Started
 
@@ -37,6 +37,8 @@
 - Host can update how many votes required to skip the song.
 - Host has PLAYBACK CONTROLS (PLAY/PAUSE/SKIP) for the room. However he must have premium spotify account to do this as per Spotify documentation.
 - Every other users can see the song whhich is being played (ALBUM COVER, TITLE, ARTIST, PROGRESS)
+- It uses Django, DjangoRestFrameWork, React, Material UI, Webpack to bundle React files into a single js file.
+- Django app is based on MVT (Model-View-Template) pattern
 
 # NOTE:-
 
